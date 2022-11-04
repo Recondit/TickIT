@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "aaedd567dacf2cc8a6fe3a0e79c4be0cf22ce38b09c0ac5e45699de98125f020"
+build_start_time: [1665362013, 275359153]
+build_end_time: [1665362020, 270525932]
+inputs:
+  "/Users/divij/Desktop/Tickit_ios/tickitios/ios/Runner/AppDelegate.swift": [1601561791, 0]
